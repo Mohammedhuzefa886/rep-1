@@ -1,3 +1,6 @@
 IS
+<<<<<<< HEAD
 huzefa
 mohammed 
+=======
+>>>>>>> b0dfad1 (new added command)
