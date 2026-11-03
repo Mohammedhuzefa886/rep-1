@@ -2,3 +2,7 @@
 huzefa
 mohammed 
 Feature-Branch
+<<<<<<< HEAD
+=======
+huzefa 1
+>>>>>>> origin/Feature-Branch
